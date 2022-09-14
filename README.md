@@ -1,29 +1,24 @@
-# Next.js + Jest
+# Next.js Template
 
-This example shows how to configure Jest to work with Next.js.
+Este projeto possui a finalidade de aprimorar o desenvolvimento inicial de qualquer aplicação que utilize o Next.js, o TypeScript e o Tailwind.
 
-This includes Next.js' built-in support for Global CSS, CSS Modules and TypeScript.
+## Recursos
 
-## How to Use
+- Next.js
+- React
+- TypeScript
+- ESLint
+- Prettier
+- Editor Config
+- Husky
+- Commitlint
+- Commitizen
+- Tailwind
+- Jest
+- Testing Library
 
-Quickly get started using [Create Next App](https://github.com/vercel/next.js/tree/canary/packages/create-next-app#readme)!
+## Como usar
 
-In your terminal, run the following command:
-
-```bash
-npx create-next-app --example with-jest with-jest-app
-```
-
-```bash
-yarn create next-app --example with-jest with-jest-app
-```
-
-```bash
-pnpm create next-app --example with-jest with-jest-app
-```
-
-## Run Jest Tests
-
-```bash
-npm test
-```
+- Clone o projeto no seu ambiente de desenvolvimento
+- Execute o comando `yarn` ou `npm i` para instalar todas as dependências
+- Execute o comendo `yarn dev` ou `npm run dev` para iniciar o projeto
